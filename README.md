@@ -4,5 +4,6 @@
 
 Contains 2 parts.
 
-ML-part training models.
-AI-part using pretrained LLMs in a RAG setup
+- ML-part training models.
+
+- AI-part using pretrained LLMs in a RAG setup
