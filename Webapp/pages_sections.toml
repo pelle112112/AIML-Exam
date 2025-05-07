@@ -1,0 +1,9 @@
+[[pages]]
+name = "Model seletion"
+is_section = true
+icon = "🏠"
+
+[[pages]]
+path = "startPage.py"
+name = "Model Selection Page"
+icon = "🎈️"
