@@ -18,7 +18,7 @@ label_names = [
 ]
 
 
-# Load model and tokenizer
+
 model_path = "models"  # or "pelle112112/ResumeLabelBert" if loading from Hugging Face
 tokenizer = BertTokenizer.from_pretrained(os.path.join(os.path.dirname(__file__), "..", "models"))
 model = BertForSequenceClassification.from_pretrained(os.path.join(os.path.dirname(__file__), "..", "models"))
@@ -26,7 +26,7 @@ model.eval()
 
 st.title("Resume Label Classifier")
 
-# User input
+
 text = st.text_area("Paste a resume below:")
 
 if st.button("Classify"):
@@ -36,7 +36,7 @@ if st.button("Classify"):
         logits = outputs.logits
         probs = torch.sigmoid(logits).squeeze().tolist()
 
-    # Show probabilities per class (modify if you have class names)
+
     st.subheader("Predicted Label Scores:")
     for name, score in zip(label_names, probs):
         st.write(f"{name}: {score:.4f}")
