@@ -1,0 +1,23 @@
+{
+  "title": "Security Analyst",
+  "job_description": "As a Security Analyst at PECO Software, you will protect our systems, data, and employees against threats. You will identify vulnerabilities, recommend improvements, and work with risk management.",
+  "tasks": [
+    "Monitor systems for suspicious activity",
+    "Perform vulnerability scans and penetration tests",
+    "Implement security measures and policies",
+    "Educate internal teams in cybersecurity",
+    "Participate in incident response and log analysis"
+  ],
+  "technical_skills": [
+    "Knowledge of SIEM, IDS/IPS, and endpoint security",
+    "Experience with security standards (ISO 27001, NIST)",
+    "Basic understanding of networks and system architecture",
+    "Knowledge of scripting for analysis (Python, Bash)"
+  ],
+  "personal_skills": [
+    "Security-conscious and risk-focused",
+    "Analytical and detail-oriented",
+    "High integrity",
+    "Ability to act quickly and effectively"
+  ]
+}

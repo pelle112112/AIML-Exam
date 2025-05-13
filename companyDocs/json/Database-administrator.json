@@ -1,0 +1,23 @@
+{
+  "title": "Database Administrator",
+  "job_description": "You will be responsible for the design, optimization, and maintenance of PECO’s databases. The role involves both operational and strategic tasks to ensure data accessibility, security, and performance.",
+  "tasks": [
+    "Monitor and optimize the performance of database servers",
+    "Implement backup and recovery strategies",
+    "Design schemas and indexes for new features",
+    "Manage user access and security policies",
+    "Troubleshoot data-related issues"
+  ],
+  "technical_skills": [
+    "Experience with MySQL, PostgreSQL, and/or SQL Server",
+    "Knowledge of query optimization and indexing",
+    "Understanding of data modeling and normalization",
+    "Experience with replication and clustering"
+  ],
+  "personal_skills": [
+    "Thorough and data-driven",
+    "Focus on operational security",
+    "Good at documentation and processes",
+    "Ability to handle complexity"
+  ]
+}

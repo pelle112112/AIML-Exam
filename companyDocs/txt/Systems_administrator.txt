@@ -1,0 +1,26 @@
+Title: Systems Administrator
+
+Job Description:
+
+As a Systems Administrator at PECO Software, you are responsible for ensuring stable operation and security of our IT infrastructure. You will work closely with DevOps and support teams and have a central role in the maintenance of both on-premise and cloud-based environments.
+
+Tasks:
+
+Monitor and maintain servers and networks
+Manage user access and security policies
+Troubleshooting and resolving system-related incidents
+Backup, recovery, and disaster recovery planning
+Automation of routine tasks via scripts
+Skills:
+
+Experience with Windows and Linux servers
+Knowledge of virtualization (VMware, Hyper-V)
+Basic networking understanding (TCP/IP, DNS, DHCP)
+Experience with cloud platforms (Azure, AWS)
+Scripting in PowerShell, Bash, or similar
+Personal Skills:
+
+Structured and detail-oriented
+High sense of responsibility
+Ability to work proactively and solution-oriented
+Good collaboration skills across teams

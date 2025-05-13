@@ -1,0 +1,23 @@
+{
+  "title": "Python Developer",
+  "job_description": "You will be developing flexible and effective backend systems using Python. The focus will be on data processing, API development, and automation.",
+  "tasks": [
+    "Develop and maintain Python-based microservices",
+    "Integrate data from third-party systems",
+    "Optimize scripts and workflows",
+    "Collaborate with DevOps and data engineering teams",
+    "Document and test code"
+  ],
+  "technical_skills": [
+    "Strong in Python and relevant libraries (FastAPI, Pandas, SQLAlchemy)",
+    "Knowledge of databases and REST APIs",
+    "Experience with asynchronous programming (asyncio)",
+    "Basic understanding of DevOps and container technology"
+  ],
+  "personal_skills": [
+    "Independent and resourceful",
+    "Well developed communication skills",
+    "Problemsolving and Analytical thinking",
+    "Technical curiosity and motivation"
+  ]
+}

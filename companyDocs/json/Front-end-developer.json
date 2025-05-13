@@ -1,0 +1,23 @@
+{
+  "title": "Front-end Developer",
+  "job_description": "As a Front-end Developer, you create intuitive and responsive user interfaces for PECO’s digital products. You will be an important part of our product development team and will focus on front-end architecture, UX, and performance.",
+  "tasks": [
+    "Develop and maintain React-based applications",
+    "Collaborate with UX designers to realize user journeys",
+    "Test and document front-end code",
+    "Participate in design reviews and optimization of component libraries",
+    "Focus on performance, accessibility, and consistency"
+  ],
+  "technical_skills": [
+    "Strong experience with JavaScript and TypeScript",
+    "Knowledge of React, Next.js, TailwindCSS",
+    "Experience with state management (Redux, Zustand)",
+    "Good skills in testing (Jest, Testing Library)"
+  ],
+  "personal_skills": [
+    "Creative and user-centered",
+    "Independent and proactive",
+    "Good understanding of detail and structure",
+    "Clear in communication and sparring"
+  ]
+}

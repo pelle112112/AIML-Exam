@@ -1,0 +1,23 @@
+{
+  "title": "Network Administrator",
+  "job_description": "As a Network Administrator at PECO Software, you work to ensure network availability, security, and performance. You are part of the operations team and work both with daily operations and larger network projects.",
+  "tasks": [
+    "Configuration and maintenance of network equipment (routers, switches, firewalls)",
+    "Monitoring network traffic and troubleshooting",
+    "Implementing security policies and network segmentation",
+    "Documentation and compliance work",
+    "Support other teams with network-related issues"
+  ],
+  "technical_skills": [
+    "Deep understanding of TCP/IP, routing, and switching",
+    "Experience with firewalls and VPNs",
+    "Knowledge of network monitoring tools (e.g., Zabbix, Nagios)",
+    "Certifications such as CCNA/CCNP are a plus"
+  ],
+  "personal_skills": [
+    "Analytical and security-conscious",
+    "Works systematically and efficiently",
+    "Good collaboration skills",
+    "Clear and precise communication"
+  ]
+}
