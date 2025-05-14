@@ -1,0 +1,45 @@
+{
+  "title": "How to create a professional resume",
+  "sections": [
+    {
+      "heading": "Choose the right format",
+      "content": "Chronological, functional, and combination resume formats are explained with their intended use cases."
+    },
+    {
+      "heading": "Include your name and contact information",
+      "content": "Start your resume with your name, email, phone number, and optionally a link to your portfolio."
+    },
+    {
+      "heading": "Tailor your resume for each position",
+      "content": "Customize the skills, professional history, and education sections based on each job application."
+    },
+    {
+      "heading": "Add a resume summary or objective",
+      "content": "Include a brief summary or career objective depending on your experience level."
+    },
+    {
+      "heading": "List your soft and hard skills",
+      "content": "Highlight skills relevant to the job, prioritizing those listed in the job description."
+    },
+    {
+      "heading": "Detail your professional history",
+      "content": "List work experience in reverse-chronological order and use quantifiable achievements with action verbs."
+    },
+    {
+      "heading": "Include an education section",
+      "content": "Mention your degree, GPA, coursework, and certifications relevant to the position."
+    },
+    {
+      "heading": "Consider adding optional sections",
+      "content": "Use achievements or interests to supplement a short resume if they align with job goals."
+    },
+    {
+      "heading": "Proofread your resume",
+      "content": "Check for grammar and formatting errors, and consolidate where possible to fit the resume onto one or two pages."
+    },
+    {
+      "heading": "Resume example",
+      "content": "Includes a sample resume for a graphic designer using the combination format."
+    }
+  ]
+}

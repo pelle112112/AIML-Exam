@@ -1,0 +1,19 @@
+Title: Java Developer
+Job Description:
+You will be a central player in PECO’s backend development, where you will build scalable Java-based systems. You work in agile teams and have responsibility for writing robust, maintainable code.
+Tasks:
+Develop and maintain microservices in Java
+Work with Spring Boot and RESTful APIs
+Integrate systems via messaging (Kafka, RabbitMQ)
+Participate in architecture and design decisions
+Performance optimization and troubleshooting
+Skills:
+Strong in Java and Spring Framework
+Experience with databases and ORM (Hibernate, JPA)
+Knowledge of testing and CI/CD in the Java environment
+Experience with container technology (Docker)
+Personal Skills:
+Systematic and quality-oriented
+Good collaboration skills
+Critical thinking and reflective
+Technical curiosity

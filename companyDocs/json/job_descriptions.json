@@ -1,0 +1,81 @@
+{
+  "software_developer": {
+    "title": "Software Developer",
+    "job_description": "As a Software Developer at PECO Software, you will develop and maintain core components in our digital product portfolio...",
+    "tasks": [
+      "Develop new features in PECO\u2019s web and backend applications",
+      "Participate in design and architecture work",
+      "Write unit tests and documentation",
+      "Code review and sparring (collaboration) with the team",
+      "Contribute to improvements of build and deploy pipelines"
+    ],
+    "technical_skills": [
+      "Strong skills in Java, Python, or C#",
+      "Experience with REST APIs and microservices",
+      "Understanding of database structures (SQL and/or NoSQL)",
+      "Knowledge of container technologies (Docker, Kubernetes)",
+      "Experience with version control (Git) and CI/CD"
+    ],
+    "personal_skills": [
+      "Analytical and problem-solving",
+      "Works structured and independently",
+      "Good collaboration skills",
+      "Open to feedback and continuous learning"
+    ]
+  },
+  "web_developer": {
+    "title": "Web Developer",
+    "job_description": "As a Web Developer at PECO Software, you will be responsible for developing and maintaining our frontend solutions...",
+    "tasks": [
+      "Develop and maintain user-friendly web applications",
+      "Implement UI components based on design mockups",
+      "Optimize frontend performance and accessibility",
+      "Collaborate with UX designers and backend developers",
+      "Test and debug across browsers and devices"
+    ],
+    "technical_skills": [
+      "Experience with React, Vue, or Angular",
+      "Proficiency in HTML5, CSS3, and modern JavaScript (ES6+)",
+      "Knowledge of Webpack, Vite, or similar build tools",
+      "Experience with REST API integration",
+      "Basic understanding of SEO and WCAG"
+    ],
+    "personal_skills": [
+      "Focus on detail and user experience",
+      "Creative problem solver",
+      "Good at collaborating and receiving feedback",
+      "Ability to work in a fast-paced and dynamic environment"
+    ]
+  },
+  "systems_administrator": {
+    "title": "Systems Administrator",
+    "job_description": "As a Systems Administrator at PECO Software, you are responsible for ensuring stable operation and security of our IT infrastructure...",
+    "tasks": [
+      "Monitor and maintain servers and networks",
+      "Manage user access and security policies",
+      "Troubleshooting and resolving system-related incidents",
+      "Backup, recovery, and disaster recovery planning",
+      "Automation of routine tasks via scripts"
+    ],
+    "technical_skills": [
+      "Experience with Windows and Linux servers",
+      "Knowledge of virtualization (VMware, Hyper-V)",
+      "Basic networking understanding (TCP/IP, DNS, DHCP)",
+      "Experience with cloud platforms (Azure, AWS)",
+      "Scripting in PowerShell, Bash, or similar"
+    ],
+    "personal_skills": [
+      "Structured and detail-oriented",
+      "High sense of responsibility",
+      "Ability to work proactively and solution-oriented",
+      "Good collaboration skills across teams"
+    ]
+  },
+  "project_manager": null,
+  "network_administrator": null,
+  "front_end_developer": null,
+  "database_administrator": null,
+  "java_developer": null,
+  "security_analyst": null,
+  "python_developer": null
+}

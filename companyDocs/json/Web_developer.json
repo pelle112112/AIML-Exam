@@ -1,0 +1,24 @@
+{
+  "title": "Web Developer",
+  "job_description": "As a Web Developer at PECO Software, you will be responsible for developing and maintaining our frontend solutions with a focus on scalability and usability. You will work closely with design and backend teams to ensure a seamless user experience.",
+  "tasks": [
+    "Develop and maintain user-friendly web applications",
+    "Implement UI components based on design mockups",
+    "Optimize frontend performance and accessibility",
+    "Collaborate with UX designers and backend developers",
+    "Test and debug across browsers and devices"
+  ],
+  "technical_skills": [
+    "Experience with React, Vue, or Angular",
+    "Proficiency in HTML5, CSS3, and modern JavaScript (ES6+)",
+    "Knowledge of Webpack, Vite, or similar build tools",
+    "Experience with REST API integration",
+    "Basic understanding of SEO and WCAG"
+  ],
+  "personal_skills": [
+    "Focus on detail and user experience",
+    "Creative problem solver",
+    "Good at collaborating and receiving feedback",
+    "Ability to work in a fast-paced and dynamic environment"
+  ]
+}

@@ -1,0 +1,26 @@
+Title: Software Developer
+
+Job Description:
+
+As a Software Developer at PECO Software, you will develop and maintain core components in our digital product portfolio. You will be part of a multidisciplinary team that works with modern technologies and agile methods to deliver software with high quality and usability.
+
+Tasks:
+
+Develop new features in PECO’s web and backend applications
+Participate in design and architecture work
+Write unit tests and documentation
+Code review and sparring (collaboration) with the team
+Contribute to improvements of build and deploy pipelines
+Skills:
+
+Strong skills in Java, Python, or C#
+Experience with REST APIs and microservices
+Understanding of database structures (SQL and/or NoSQL)
+Knowledge of container technologies (Docker, Kubernetes)
+Experience with version control (Git) and CI/CD
+Personal Skills:
+
+Analytical and problem-solving
+Works structured and independently
+Good collaboration skills
+Open to feedback and continuous learning
