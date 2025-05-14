@@ -1,4 +1,18 @@
-# ignore all files except .gitignore :
+# Ignore everything
 *
+
+# Keep .gitignore itself
 !.gitignore
-!Dataframes
+
+# Allow the folder
+!classificationModels/
+
+
+
+# Ignore everything else in the folder
+classificationModels/*
+
+
+!classificationModels/decision_tree.pkl
+!classificationModels/logistic_regression.pkl
+!classificationModels/vectorizer.pkl

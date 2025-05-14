@@ -12,7 +12,6 @@ st.title("Resume vs Job Role Matching (Cosine Similarity)")
 @st.cache_resource
 def load_model():
     return SentenceTransformer("all-MiniLM-L6-v2")
-
 model = load_model()
 
 # Loading of the job requirements from JSON files and caching the results to again reduce loading time
