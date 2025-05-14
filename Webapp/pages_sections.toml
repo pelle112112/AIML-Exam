@@ -7,3 +7,8 @@ icon = "🏠"
 path = "startPage.py"
 name = "Model Selection Page"
 icon = "🎈️"
+
+[[pages]]
+path = "cosineSim.py"
+name = "Cosine Similarity Matcher"
+icon = ""
