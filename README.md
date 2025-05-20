@@ -14,3 +14,21 @@ Trained on https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
 #### - AI-part using pretrained LLMs in a RAG setup
 
 
+
+
+### How to setup and run the project
+
+You need a python version >= 3.11
+
+```pip install -r requirements.txt```
+
+#### Downloading of the models:
+
+```python setupScripts/downloadRFModel.py```
+
+```python setupScripts/downloadBertModel.py.py```
+
+#### Launching the streamlit application
+```cd Webapp```
+
+```python -m streamlit run start.py```
