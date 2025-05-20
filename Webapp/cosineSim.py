@@ -20,7 +20,6 @@ def load_job_descriptions():
     job_folder = os.path.join(os.path.dirname(__file__), "..", "companyDocs", "json")
     job_descriptions = {}
 
-    # Only include actual job roles
     allowed_roles = {
         "Software Developer": "software_developer.json",
         "Database Administrator": "database-administrator.json",
@@ -34,29 +33,29 @@ def load_job_descriptions():
         "Front End Developer": "front-end-developer.json",
     }
 
-    for role_name, filename in allowed_roles.items():
-        path = os.path.join(job_folder, filename.replace(" ", "-").lower())
-        # try multiple formats e.g., snake-case / kebab-case
-        path_options = [
-            os.path.join(job_folder, filename),
- 
-        ]
-        for filepath in path_options:
-            if os.path.exists(filepath):
-                with open(filepath, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    parts = [
-                        data.get("job_description", ""),
-                        " ".join(data.get("tasks", [])),
-                        " ".join(data.get("technical_skills", [])),
-                        " ".join(data.get("personal_skills", [])),
-                    ]
-                    full_description = " ".join(part.strip() for part in parts if part.strip())
-                    if full_description:
-                        job_descriptions[role_name] = full_description
-                break
+    actual_files = {f.lower(): f for f in os.listdir(job_folder)}  # lowercase mapping
+
+    for role_name, expected_file in allowed_roles.items():
+        lower_file = expected_file.lower()
+        actual_file = actual_files.get(lower_file)
+        if actual_file:
+            filepath = os.path.join(job_folder, actual_file)
+            with open(filepath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                parts = [
+                    data.get("job_description", ""),
+                    " ".join(data.get("tasks", [])),
+                    " ".join(data.get("technical_skills", [])),
+                    " ".join(data.get("personal_skills", [])),
+                ]
+                full_description = " ".join(part.strip() for part in parts if part.strip())
+                if full_description:
+                    job_descriptions[role_name] = full_description
+        else:
+            st.warning(f"Job file not found for role: {role_name} (expected: {expected_file})")
 
     return job_descriptions
+
 
 job_descriptions = load_job_descriptions()
 st.text(f"Loaded job descriptions: {len(job_descriptions)}")
