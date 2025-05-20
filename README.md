@@ -26,7 +26,7 @@ You need a python version >= 3.11
 
 ```python setupScripts/downloadRFModel.py```
 
-```python setupScripts/downloadBertModel.py.py```
+```python setupScripts/downloadBertModel.py```
 
 #### Launching the streamlit application
 ```cd Webapp```
