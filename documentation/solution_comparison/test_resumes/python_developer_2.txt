@@ -1,0 +1,63 @@
+Name: Emma Sørensen
+Email: emma.sorensen@example.com
+Phone: +45 12 34 56 78
+Location: Copenhagen, Denmark
+GitHub: github.com/emmasorensen
+LinkedIn: linkedin.com/in/emmasorensen
+
+Professional Summary
+Results-driven Python Developer with 5+ years of experience in backend development, API integration, and automation. Adept at building scalable applications using Django and FastAPI, integrating relational databases, and deploying on AWS. Proven ability to write clean, testable code and work effectively in Agile teams. Strong focus on performance optimization, maintainability, and automation.
+
+Technical Skills
+Languages: Python (3.x), JavaScript (basic)
+
+Frameworks: Django, FastAPI, Flask
+
+Databases: PostgreSQL, MySQL, SQLite
+
+Tools: Git, Docker, Celery, Redis
+
+Testing: Pytest, unittest
+
+Cloud: AWS (EC2, Lambda, RDS), Heroku
+
+CI/CD: GitHub Actions, Jenkins
+
+Other: REST APIs, JSON, Linux, Bash
+
+Professional Experience
+Python Developer
+TechHive Solutions, Copenhagen
+Feb 2021 – Present
+
+Developed and maintained microservices using FastAPI, improving application response times by 35%.
+
+Created and optimized PostgreSQL queries to handle large-scale data efficiently.
+
+Automated backend processes with Celery and integrated Redis for task queuing.
+
+Worked closely with DevOps to implement CI/CD pipelines using GitHub Actions and Docker.
+
+Integrated external APIs for payment, email, and data services.
+
+Junior Python Developer
+SoftCore A/S, Aarhus
+Jul 2018 – Jan 2021
+
+Built RESTful APIs using Django REST Framework to serve frontend and third-party consumers.
+
+Participated in code reviews and collaborated on Agile sprints to deliver features on time.
+
+Developed internal tools for log analysis and monitoring using Python and Shell scripts.
+
+Improved code quality by introducing unit tests and ensuring 85%+ code coverage.
+
+Education
+Bachelor of Science in Computer Science
+Aalborg University, Denmark
+2015 – 2018
+
+Certifications
+Python for Everybody – University of Michigan (Coursera)
+
+AWS Certified Developer – Associate (in progress)

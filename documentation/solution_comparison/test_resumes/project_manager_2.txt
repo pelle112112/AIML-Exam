@@ -1,0 +1,66 @@
+Name: Jakob Madsen
+Email: jakob.madsen@example.com
+Phone: +45 12 34 56 78
+Location: Aarhus, Denmark
+LinkedIn: linkedin.com/in/jakobmadsen
+
+Professional Summary
+Results-driven Project Manager with 7+ years of experience leading software development teams across web, mobile, and cloud-based solutions. Skilled in Agile and Scrum methodologies, stakeholder communication, and cross-functional team leadership. Proven ability to deliver projects on time, within scope, and aligned with business goals. Adept at managing distributed teams, optimizing workflows, and ensuring high team morale and delivery consistency.
+
+Key Skills
+Agile / Scrum / Kanban
+
+Jira / Confluence / Trello
+
+SDLC & Software Project Lifecycle
+
+Stakeholder & Client Communication
+
+Budgeting & Resource Planning
+
+Risk & Change Management
+
+Roadmap & Release Planning
+
+UX / Dev / QA Team Coordination
+
+KPI Tracking & Reporting
+
+Experience
+Project Manager
+CodeForge ApS, Aarhus
+Feb 2020 – Present
+
+Lead software projects with teams of 8–12 engineers, designers, and QA testers.
+
+Implemented Agile ceremonies, improving delivery cycle time by 35%.
+
+Oversaw project budgeting, risk logs, and scope management across 15+ B2B and B2C platforms.
+
+Worked directly with clients and stakeholders to translate business needs into deliverable features.
+
+Managed roadmap execution, release timelines, and sprint retrospectives.
+
+Junior Project Manager
+NextTech Solutions, Copenhagen
+Jun 2016 – Jan 2020
+
+Supported senior PMs in tracking milestones, backlog grooming, and coordination between DevOps, QA, and product.
+
+Ran standups and sprint planning meetings for multiple concurrent development teams.
+
+Reduced feature delivery delays by 25% by streamlining the QA handover process.
+
+Created clear and actionable project documentation, status reports, and risk assessments.
+
+Education
+BSc in Software Development & Project Management
+Copenhagen Business Academy
+2013 – 2016
+
+Certifications
+Certified ScrumMaster (CSM)
+
+PMI Agile Certified Practitioner (PMI-ACP)
+
+PRINCE2 Foundation

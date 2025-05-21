@@ -1,0 +1,68 @@
+Name: Lars Henriksen
+Email: lars.henriksen@example.com
+Phone: +45 12 34 56 78
+Location: Odense, Denmark
+LinkedIn: linkedin.com/in/larshenriksen
+
+Professional Summary
+Experienced Network Administrator with 6+ years of hands-on expertise in configuring, maintaining, and securing enterprise network infrastructures. Proven track record in LAN/WAN management, firewalls, VPNs, and network performance optimization. Strong problem-solving skills, excellent documentation habits, and a proactive approach to minimizing downtime and ensuring high availability.
+
+Key Skills
+Network Configuration & Troubleshooting
+
+Cisco Routers & Switches (CCNA Certified)
+
+Firewall Management (Cisco ASA, Fortinet, pfSense)
+
+VPN / Remote Access Solutions
+
+LAN/WAN, TCP/IP, DNS, DHCP
+
+Network Monitoring (Nagios, PRTG, Zabbix)
+
+VLANs, QoS, Subnetting
+
+Windows & Linux Server Administration
+
+IT Security & Patch Management
+
+Documentation & Network Diagrams
+
+Experience
+Network Administrator
+ScanTech Systems A/S, Odense
+Feb 2020 – Present
+
+Manage and secure a hybrid network across 3 office locations and 2 data centers.
+
+Configured firewalls, VPNs, and VLANs to segment and secure internal networks.
+
+Implemented 24/7 monitoring using Zabbix and reduced average downtime by 40%.
+
+Led a network upgrade project, replacing legacy switches and increasing throughput by 60%.
+
+Worked closely with the IT support team to resolve escalated networking issues.
+
+IT Support Technician (Network Focus)
+Nordicom IT, Kolding
+Aug 2017 – Jan 2020
+
+Provided Tier 2 support with a focus on network-related issues.
+
+Assisted in configuring routers, switches, and wireless access points for SMB clients.
+
+Documented network layouts and created SOPs for hardware rollouts.
+
+Coordinated with vendors for hardware procurement and licensing.
+
+Education
+AP Degree in Network Technology
+Erhvervsakademiet Lillebælt (EAL)
+2015 – 2017
+
+Certifications
+Cisco Certified Network Associate (CCNA)
+
+CompTIA Network+
+
+Fortinet NSE 4 (in progress)

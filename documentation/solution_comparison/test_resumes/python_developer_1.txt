@@ -1,0 +1,67 @@
+Name: Jonas Mikkelsen
+Email: jonas.mikkelsen@example.com
+Phone: +45 12 34 56 78
+Location: Aarhus, Denmark
+GitHub: github.com/jonasmikkelsen
+LinkedIn: linkedin.com/in/jonasmikkelsen
+
+Professional Summary
+Python Developer with 4+ years of experience building scalable web applications, APIs, and automation tools. Proficient in writing clean, efficient, and testable code using Python frameworks like Django and FastAPI. Skilled in integrating databases, optimizing performance, and deploying applications on cloud platforms. Strong background in software engineering principles, CI/CD pipelines, and RESTful design.
+
+Core Skills
+Python (3.x)
+
+Django, FastAPI, Flask
+
+PostgreSQL, MySQL, SQLite
+
+RESTful APIs, WebSockets
+
+Docker, Git, Linux
+
+Celery, Redis
+
+Unit Testing (Pytest, unittest)
+
+AWS (EC2, S3, Lambda)
+
+GitHub Actions, Jenkins
+
+Agile & Scrum
+
+Professional Experience
+Python Developer
+NordicTech Solutions, Aarhus
+May 2021 – Present
+
+Designed and implemented RESTful APIs using Django REST Framework, reducing API response time by 40%.
+
+Built background job workflows using Celery and Redis to handle heavy data processing.
+
+Wrote integration scripts to automate report generation and third-party service syncs.
+
+Integrated PostgreSQL with Django ORM and optimized complex queries.
+
+Collaborated with frontend teams to develop features in a microservices architecture.
+
+Junior Python Developer
+CodeSpring ApS, Aalborg
+Aug 2019 – Apr 2021
+
+Developed internal tools and scripts to automate deployment and testing processes.
+
+Created REST APIs with Flask and consumed third-party services for data integration.
+
+Maintained backend codebase, added unit tests, and refactored legacy modules.
+
+Supported cloud deployment on AWS and wrote infrastructure automation scripts using Boto3.
+
+Education
+BSc in Software Development
+University College of Northern Denmark (UCN)
+2016 – 2019
+
+Certifications
+Python for Data Structures and Algorithms – Coursera
+
+AWS Certified Developer – Associate (in progress)

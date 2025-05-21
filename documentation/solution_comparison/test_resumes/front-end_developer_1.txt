@@ -1,0 +1,62 @@
+Name: Jonas Eriksen
+Email: jonas.eriksen@example.com
+Phone: +45 12 34 56 78
+Location: Aarhus, Denmark
+GitHub: github.com/jonaseriksen
+Portfolio: jonasfrontend.dev
+LinkedIn: linkedin.com/in/jonaseriksen
+
+Professional Summary
+Front-End Developer with 5+ years of experience building modern, responsive web applications using React, Next.js, and TypeScript. Strong focus on performance, accessibility, and clean UI/UX. Proven track record of delivering scalable front-end solutions in Agile teams, collaborating closely with designers and backend developers to ship production-ready features.
+
+Skills
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+
+Frameworks: React, Next.js, Vue.js
+
+State Management: Redux, Zustand, Context API
+
+Styling: Tailwind CSS, Styled Components, Sass
+
+APIs: REST, GraphQL
+
+Tools: Git, Webpack, Vite, Figma, Jira, Cypress
+
+Best Practices: Responsive Design, Accessibility (WCAG), SEO, Performance Optimization
+
+Experience
+Front-End Developer
+NordicApps, Aarhus
+Feb 2021 – Present
+
+Developed and maintained React-based interfaces for SaaS platforms used by 20,000+ users.
+
+Implemented reusable component libraries using Storybook and Tailwind CSS.
+
+Collaborated with UI/UX team to translate Figma designs into functional components.
+
+Led frontend architecture redesign, improving load times by 35% via lazy loading and code splitting.
+
+Wrote unit and integration tests using Jest and Cypress to ensure feature reliability.
+
+Junior Front-End Developer
+WebSpark, Copenhagen
+Jan 2019 – Jan 2021
+
+Assisted in building Vue.js frontends for e-commerce platforms and CMS-driven websites.
+
+Built mobile-first layouts and ensured cross-browser compatibility.
+
+Integrated with backend APIs and handled client-side form validation and error handling.
+
+Participated in weekly sprint planning and code reviews.
+
+Education
+Bachelor’s in Web Development
+KEA – Copenhagen School of Design and Technology
+2015 – 2018
+
+Certifications
+React – The Complete Guide (Udemy)
+
+Responsive Web Design Certification (freeCodeCamp)
