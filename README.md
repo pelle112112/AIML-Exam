@@ -98,6 +98,8 @@ Keep in mind for future usage it is needed to have ollama serve the models to Op
 
 You need a python version >= 3.11
 
+Firstly start af terminal in the root of the project
+
 `pip install -r requirements.txt`
 
 #### Downloading of the models:
