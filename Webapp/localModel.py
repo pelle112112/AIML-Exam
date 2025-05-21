@@ -3,6 +3,14 @@ from openwebui_api import chat_with_model
 
 st.title("Ask your AI assistant for a match score")
 
+if "jwt_token" not in st.session_state:
+    st.session_state.jwt_token = ""
+
+if not st.session_state.jwt_token:
+    st.session_state.jwt_token = st.text_input("Enter your API token to proceed:", type="password")
+    if not st.session_state.jwt_token:
+        st.stop()
+
 job_title = st.selectbox(
     "Select a job title:",
     options=[
@@ -48,7 +56,8 @@ if st.button("Get match score"):
 
     jsonResponse = chat_with_model(
         job_title=job_title,
-        resume=text
+        resume=text,
+        token=st.session_state.jwt_token
     )
     
     st.subheader("Match Score:")

@@ -1,8 +1,6 @@
 import requests
 
-token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA3YTVjN2Q1LTMwMjQtNDUzNy1iOTI0LTlhYzdmZTRhOGI1ZiJ9.RbgTOVkS-9inZiDmA2TQ4gF4bGrRRKmAFGSlZfkSg48"
-
-def chat_with_model(job_title, resume):
+def chat_with_model(job_title, resume, token):
     url = 'http://localhost:3000/api/chat/completions'
     headers = {
         'Authorization': f'Bearer {token}',
