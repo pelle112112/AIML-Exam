@@ -92,3 +92,12 @@ Your knowledge should now look something like this:
 Your local AI is now setup and ready to use through the frontend application, on page "Ask your local AI for help".
 
 Keep in mind for future usage it is needed to have ollama serve the models to Open WebUI and to have the docker container running.
+
+#### Downloading and readying machine learning models
+
+From the root of the project use the following command to download our pre trained models from huggingface. 
+
+```python
+python.exe setupScripts/download_model.py
+```
+
