@@ -98,23 +98,36 @@ Keep in mind for future usage it is needed to have ollama serve the models to Op
 
 You need a python version >= 3.11
 
+#### Installing required dependencies
+To install the required dependencies, it is highly recommended to use a virtual environment to not get any conflicting versions.
+
+Put the following command into the terminal from the root of the project:
+
 `pip install -r requirements.txt`
 
 #### Downloading of the models:
+The following scripts will download the BERT and RF models which are required for the first part of the screening process.
+
+Put the following commands one at a time into the terminal from the root of the project:
 
 `python setupScripts/downloadRFModel.py`
 
 `python setupScripts/downloadBertModel.py`
 
 #### Launching the streamlit application
+Once everything is set up you should be able to run the application. 
+
+Firstly navigate to the Webapp folder with the following command:
 
 `cd Webapp`
+
+Then type the following command to run the streamlit application:
 
 `python -m streamlit run start.py`
 
 ### Documentation of the Machine Learning
 
-The thoughts and reflections will be in this part of the README and in the .ipynb files:
+The thoughts and reflections will be in the following files, where we trained different models for the first screening process of resumes (Multi labeling):
 
 - dataCleaning.ipynb
 - BertTraining.ipynb
