@@ -12,3 +12,10 @@ icon = ""
 path = "cosineSim.py"
 name = "Cosine Similarity Matcher - Second Screening"
 icon = ""
+
+
+
+
+[[pages]]
+path = "localModel.py"
+name = "Ask your local AI for help"
