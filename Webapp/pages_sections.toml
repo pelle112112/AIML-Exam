@@ -7,3 +7,7 @@ icon = "🏠"
 path = "startPage.py"
 name = "Model Selection Page"
 icon = "🎈️"
+
+[[pages]]
+path = "localModel.py"
+name = "Ask your local AI for help"
