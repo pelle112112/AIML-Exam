@@ -1,12 +1,20 @@
 [[pages]]
 name = "Model seletion"
 is_section = true
-icon = "🏠"
+icon = ""
 
 [[pages]]
-path = "startPage.py"
-name = "Model Selection Page"
-icon = "🎈️"
+path = "MultiLabelClassifier.py"
+name = "Multi Label - First Screening"
+icon = ""
+
+[[pages]]
+path = "cosineSim.py"
+name = "Cosine Similarity Matcher - Second Screening"
+icon = ""
+
+
+
 
 [[pages]]
 path = "localModel.py"

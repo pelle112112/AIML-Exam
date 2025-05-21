@@ -5,11 +5,12 @@
 Contains 2 parts.
 
 #### - ML-part training models.
+
 Trained on https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
 
 1. We train a neural network for the first screening. We categorize the resume and see if the category matches. (Multi label)
 
-3. We semantic compare the resume against the job requirements in a second screening giving more complex comparisations of actual skills.
+2. We semantic compare the resume against the job requirements in a second screening giving more complex comparisations of actual skills.
 
 #### - AI-part using pretrained LLMs in a RAG setup
 
@@ -93,11 +94,29 @@ Your local AI is now setup and ready to use through the frontend application, on
 
 Keep in mind for future usage it is needed to have ollama serve the models to Open WebUI and to have the docker container running.
 
-#### Downloading and readying machine learning models
+### How to setup and run the project
 
-From the root of the project use the following command to download our pre trained models from huggingface. 
+You need a python version >= 3.11
 
-```python
-python.exe setupScripts/download_model.py
-```
+`pip install -r requirements.txt`
 
+#### Downloading of the models:
+
+`python setupScripts/downloadRFModel.py`
+
+`python setupScripts/downloadBertModel.py`
+
+#### Launching the streamlit application
+
+`cd Webapp`
+
+`python -m streamlit run start.py`
+
+### Documentation of the Machine Learning
+
+The thoughts and reflections will be in this part of the README and in the .ipynb files:
+
+- dataCleaning.ipynb
+- BertTraining.ipynb
+- ClassificationModels.ipynb
+- dataExploration.ipynb
