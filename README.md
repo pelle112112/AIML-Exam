@@ -42,10 +42,16 @@ Open a new terminal and install the required model.
 ```
 ollama run gemma3:4b
 ```
+
+After installing the model use the following command to exit the chat.
+
+```
+/bye
+```
  
 ##### Step 3.
 
-Navigate to open webUI and create an admin account when prompted. 
+Navigate to open webUI, press get started and create an admin account when prompted. 
 
 ```
 http://localhost:3000/
@@ -75,4 +81,14 @@ Click 'Create Knowledge'
 
 Click add content and choose Upload directory.
 
-Upload all the content of [the companyDocs/json folder](/companyDocs/json/) 
+Upload all the content of [the companyDocs/json folder](/companyDocs/json/)
+
+Your knowledge should now look something like this:
+
+![image](documentation/Local_AI_model/knowledge_complete.png)
+
+##### Step 5.
+
+Your local AI is now setup and ready to use through the frontend application, on page "Ask your local AI for help".
+
+Keep in mind for future usage it is needed to have ollama serve the models to Open WebUI and to have the docker container running.
