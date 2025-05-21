@@ -1,0 +1,67 @@
+Name: Lukas Andersen
+Email: lukas.andersen@example.com
+Phone: +45 12 34 56 78
+Location: Aarhus, Denmark
+GitHub: github.com/lukasandersen
+LinkedIn: linkedin.com/in/lukasandersen
+
+Professional Summary
+Detail-oriented Java Developer with 4+ years of experience designing, developing, and deploying backend systems and RESTful APIs using Spring Boot, Hibernate, and Java EE. Skilled in writing clean, maintainable code and building scalable microservices. Strong background in relational databases, CI/CD pipelines, and cloud-based deployments. Collaborative team player with experience in Agile/Scrum environments.
+
+Core Competencies
+Java SE & EE
+
+Spring Boot, Spring MVC, Spring Security
+
+Hibernate, JPA
+
+RESTful API Design
+
+PostgreSQL, MySQL
+
+Docker, Git, Jenkins
+
+JUnit, Mockito
+
+Maven, Gradle
+
+AWS (EC2, RDS, S3)
+
+Agile & Scrum
+
+Professional Experience
+Java Developer
+Nexora Systems, Aarhus
+April 2021 – Present
+
+Developed REST APIs with Spring Boot to support frontend and mobile applications.
+
+Built reusable modules and microservices for order processing and user management systems.
+
+Implemented authentication and role-based authorization using Spring Security.
+
+Improved database performance by optimizing queries and indexing in PostgreSQL.
+
+Automated deployments via Jenkins and Docker, reducing release cycles by 40%.
+
+Junior Java Developer
+TechWorks ApS, Copenhagen
+June 2019 – March 2021
+
+Maintained legacy Java EE applications and assisted in migrating to Spring Boot.
+
+Developed internal tools for data processing and reporting.
+
+Wrote unit and integration tests using JUnit and Mockito to improve code reliability.
+
+Participated in daily standups and sprint reviews in an Agile setup.
+
+Education
+Bachelor of Science in Software Engineering
+IT University of Copenhagen
+2016 – 2019
+
+Certifications
+Oracle Certified Associate (OCA) – Java SE 8
+
+Spring Professional Certification (in progress)

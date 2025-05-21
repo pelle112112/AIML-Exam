@@ -1,0 +1,47 @@
+Professional Summary
+Detail-oriented Database Developer with over 5 years of experience designing, implementing, and maintaining robust database solutions. Proficient in SQL, PL/SQL, data modeling, performance tuning, and ETL processes. Strong problem-solving skills and a deep understanding of relational databases, cloud data services, and business intelligence tools. Proven track record of optimizing database performance and supporting scalable, secure applications.
+
+Technical Skills
+Languages: SQL, PL/SQL, T-SQL, Python
+
+Databases: Oracle, SQL Server, MySQL, PostgreSQL, MongoDB
+
+Tools: SSIS, SSRS, Power BI, Talend, Git
+
+Cloud Platforms: AWS RDS, Azure SQL, Google Cloud SQL
+
+Other: Data Warehousing, Indexing, Query Optimization, Normalization, ER Modeling
+
+Professional Experience
+Database Developer
+XYZ Technologies | New York, NY | Jan 2021 – Present
+
+Designed and developed relational databases supporting financial analytics platforms.
+
+Wrote complex SQL queries and stored procedures to support business logic.
+
+Reduced query time by 45% through indexing and performance tuning.
+
+Collaborated with backend developers and data analysts for ETL processes.
+
+Migrated on-premise databases to AWS RDS with zero downtime.
+
+Jr. Database Developer
+Alpha Solutions | Jersey City, NJ | Jun 2018 – Dec 2020
+
+Supported development and maintenance of databases for e-commerce applications.
+
+Automated data validation tasks using SQL scripts and Python.
+
+Assisted in building dashboards in Power BI for real-time sales tracking.
+
+Participated in normalization and data integrity audits across systems.
+
+Education
+Bachelor of Science in Computer Science
+Rutgers University, NJ – 2018
+
+Certifications
+Microsoft Certified: Azure Database Administrator Associate
+
+Oracle Database SQL Certified Associate

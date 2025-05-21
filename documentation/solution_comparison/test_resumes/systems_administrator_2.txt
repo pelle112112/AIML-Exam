@@ -1,0 +1,67 @@
+Name: Thomas Nielsen
+Email: thomas.nielsen@example.com
+Phone: +45 12 34 56 78
+Location: Odense, Denmark
+LinkedIn: linkedin.com/in/thomasnielsen
+GitHub: github.com/thomasnielsen
+
+Professional Summary
+Detail-oriented Systems Administrator with 5+ years of experience in managing Windows and Linux-based infrastructure, supporting enterprise environments, and automating routine operations. Strong background in virtualization, networking, security, and cloud services. Known for improving system uptime, automating deployments, and delivering stable and secure infrastructure in compliance with IT policies.
+
+Key Skills
+Server Administration (Windows, Linux)
+
+Virtualization (VMware, Hyper-V)
+
+Scripting (PowerShell, Bash, Python)
+
+Active Directory, DNS, DHCP, GPO
+
+Infrastructure Automation (Ansible, Terraform)
+
+Monitoring & Logging (Zabbix, Grafana, ELK)
+
+Backup & Disaster Recovery
+
+Cloud Platforms (AWS, Azure)
+
+CI/CD & Configuration Management
+
+Experience
+Systems Administrator
+SysTech Solutions, Odense
+Jan 2021 – Present
+
+Administered 200+ servers across on-premise and cloud environments (AWS & Azure).
+
+Automated server provisioning and patch management using Ansible.
+
+Migrated file services and internal tools from legacy infrastructure to Azure.
+
+Managed user accounts, group policies, and permissions via Active Directory.
+
+Deployed Zabbix and Grafana for infrastructure monitoring and alerting.
+
+IT Support Technician → Junior Systems Admin
+Nordic IT Services, Esbjerg
+Jun 2018 – Dec 2020
+
+Provided 2nd/3rd line support to 300+ users across departments.
+
+Configured and maintained VMware environments and Windows Server instances.
+
+Developed PowerShell scripts for automated user provisioning and log rotation.
+
+Assisted in disaster recovery drills and server backup testing.
+
+Education
+AP Degree in Computer Science – Infrastructure & Security
+Erhvervsakademiet Lillebælt, Odense
+2016 – 2018
+
+Certifications
+Microsoft Certified: Azure Administrator Associate
+
+CompTIA Server+
+
+VMware vSphere 7 Foundations

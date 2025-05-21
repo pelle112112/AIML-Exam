@@ -1,0 +1,68 @@
+Name: Emma Kristensen
+Email: emma.kristensen@example.com
+Phone: +45 12 34 56 78
+Location: Copenhagen, Denmark
+LinkedIn: linkedin.com/in/emmakristensen
+
+Professional Summary
+Experienced Project Manager with 6+ years in leading cross-functional software teams and delivering complex digital products on time and within budget. Skilled in agile methodologies, stakeholder management, and team coordination. Proven track record of aligning technical execution with business goals, reducing delivery risks, and increasing team efficiency. Known for clear communication, structured planning, and decisive leadership in dynamic software development environments.
+
+Core Competencies
+Agile & Scrum Project Management
+
+Stakeholder Communication
+
+Software Development Lifecycle (SDLC)
+
+Budgeting & Resource Allocation
+
+Risk Assessment & Mitigation
+
+Jira, Confluence, Trello, MS Project
+
+Team Leadership & Coaching
+
+Change Management
+
+Client-Facing Project Delivery
+
+KPI Reporting & Roadmap Planning
+
+Professional Experience
+Project Manager
+NordSoft Solutions, Copenhagen
+Jan 2021 – Present
+
+Led delivery of B2B SaaS platforms for enterprise clients, managing teams of 10–15 developers, designers, and QA engineers.
+
+Ran daily standups, sprint planning, and retrospectives in a fast-paced Agile environment.
+
+Maintained project plans, backlog prioritization, and timeline tracking using Jira and Confluence.
+
+Managed stakeholder expectations across multiple departments, improving delivery predictability by 30%.
+
+Delivered 20+ successful product releases with minimal scope creep and under budget.
+
+Associate Project Manager
+CloudLogic A/S, Aarhus
+Aug 2017 – Dec 2020
+
+Coordinated software projects from initiation to closure for mobile and web-based solutions.
+
+Supported senior PMs in defining scope, gathering requirements, and tracking milestones.
+
+Maintained project documentation, communication plans, and weekly progress reports.
+
+Contributed to internal process improvements around release planning and retrospectives.
+
+Education
+BSc in Information Technology & Project Management
+IT-Universitetet i København
+2014 – 2017
+
+Certifications
+Certified ScrumMaster (CSM)
+
+PRINCE2 Foundation
+
+PMI Agile Certified Practitioner (PMI-ACP)

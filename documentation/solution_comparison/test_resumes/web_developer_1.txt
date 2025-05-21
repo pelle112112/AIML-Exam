@@ -1,0 +1,68 @@
+Name: Mikkel Sørensen
+Email: mikkel.sorensen@example.com
+Phone: +45 12 34 56 78
+Location: Copenhagen, Denmark
+Portfolio: www.mikkelsorensen.dev
+GitHub: github.com/mikkelsorensen
+LinkedIn: linkedin.com/in/mikkelsorensen
+
+Professional Summary
+Skilled Web Developer with 4+ years of experience building responsive, scalable, and accessible web applications. Specialized in modern JavaScript frameworks (React, Next.js), REST APIs, and frontend performance optimization. Strong understanding of UX principles and agile workflows. Passionate about clean code, modular design, and delivering user-focused solutions.
+
+Key Skills
+HTML5, CSS3, JavaScript (ES6+)
+
+React, Next.js, TypeScript
+
+Node.js, Express
+
+REST & GraphQL APIs
+
+Tailwind CSS, Sass, Styled Components
+
+Git, GitHub Actions, CI/CD
+
+Webpack, Vite, ESLint
+
+Responsive & Cross-Browser Design
+
+Unit Testing (Jest, React Testing Library)
+
+Agile / Scrum / Kanban
+
+Experience
+Frontend Web Developer
+DigitalWorks ApS, Copenhagen
+Jan 2021 – Present
+
+Developed and maintained web apps using React, Next.js, and Tailwind CSS.
+
+Integrated REST and GraphQL APIs into frontend components.
+
+Optimized app load times by 40% through code-splitting and image lazy-loading.
+
+Collaborated with designers, QA, and backend teams in Agile sprints.
+
+Implemented component libraries with Storybook for consistent UI.
+
+Junior Web Developer
+Softlabs Studio, Aarhus
+Aug 2019 – Dec 2020
+
+Built landing pages and internal tools using HTML, CSS, and vanilla JavaScript.
+
+Migrated legacy jQuery codebases to React.
+
+Wrote unit tests and improved code coverage to over 85%.
+
+Participated in code reviews and team demos.
+
+Education
+AP Degree in Computer Science
+Erhvervsakademiet Copenhagen
+2017 – 2019
+
+Certifications
+Meta Front-End Developer Certificate (Coursera)
+
+JavaScript Algorithms and Data Structures (freeCodeCamp)

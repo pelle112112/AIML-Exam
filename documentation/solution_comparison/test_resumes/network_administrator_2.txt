@@ -1,0 +1,68 @@
+Name: Emma Kristensen
+Email: emma.kristensen@example.com
+Phone: +45 12 34 56 78
+Location: Aalborg, Denmark
+LinkedIn: linkedin.com/in/emmakristensen
+
+Professional Summary
+Certified Network Administrator with 5+ years of experience managing and securing enterprise network infrastructures. Skilled in configuring routers, switches, firewalls, and VPNs across multi-site environments. Known for fast problem resolution, minimizing downtime, and maintaining network integrity. Strong documentation skills and proactive in system monitoring and performance tuning.
+
+Core Competencies
+Cisco & Ubiquiti Network Hardware
+
+TCP/IP, DNS, DHCP, VLANs, VPN
+
+Firewall Administration (pfSense, FortiGate)
+
+Network Monitoring (Zabbix, PRTG, Nagios)
+
+Wi-Fi Planning and Optimization
+
+LAN/WAN Troubleshooting
+
+Windows & Linux Network Integration
+
+Security Patch Management
+
+Documentation & Change Management
+
+ITIL-aligned Service Delivery
+
+Professional Experience
+Network Administrator
+NorthData IT Solutions, Aalborg
+Feb 2021 – Present
+
+Administer and secure internal networks across four branch offices.
+
+Maintain and optimize VPN connectivity for remote users and partners.
+
+Lead incident response for network outages and security breaches.
+
+Conduct firmware updates, patching, and security audits monthly.
+
+Reduced recurring outages by reconfiguring QoS and upgrading edge firewalls.
+
+IT Technician – Infrastructure Focus
+SysNet A/S, Viborg
+Aug 2018 – Jan 2021
+
+Assisted in deploying and configuring Layer 2/3 switches and wireless access points.
+
+Monitored system health and performed daily network checks using PRTG.
+
+Wrote detailed documentation for network changes and equipment inventory.
+
+Provided Level 2 support for network-related service desk tickets.
+
+Education
+AP Degree in Network Administration and IT Security
+University College of Northern Denmark (UCN)
+2016 – 2018
+
+Certifications
+Cisco Certified Network Associate (CCNA)
+
+CompTIA Security+
+
+MikroTik Certified Network Associate (MTCNA)

@@ -1,0 +1,69 @@
+Name: Sofia Madsen
+Email: sofia.madsen@example.com
+Phone: +45 12 34 56 78
+Location: Copenhagen, Denmark
+Portfolio: sofiamadsen.dev
+GitHub: github.com/sofiamadsen
+LinkedIn: linkedin.com/in/sofiamadsen
+
+Professional Summary
+Creative and detail-oriented Front-End Developer with 4+ years of experience building responsive, user-focused web applications. Expert in modern JavaScript frameworks like React and Vue, with a strong grasp of UI/UX principles, performance optimization, and cross-browser compatibility. Proven ability to collaborate with designers, backend developers, and product owners to deliver scalable solutions in Agile teams.
+
+Core Competencies
+HTML5, CSS3, JavaScript (ES6+)
+
+React, Next.js, Vue.js
+
+Tailwind CSS, Sass, Styled Components
+
+Redux, Zustand
+
+REST APIs, GraphQL
+
+Webpack, Vite, Babel
+
+Git, GitHub, CI/CD
+
+Responsive Design, Accessibility (WCAG)
+
+Figma, Adobe XD
+
+Agile/Scrum
+
+Professional Experience
+Front-End Developer
+PixelNova Studios, Copenhagen
+May 2021 – Present
+
+Built and maintained React-based SPAs and integrated them with backend APIs using Axios and GraphQL.
+
+Migrated legacy CSS to Tailwind CSS, reducing stylesheet size by 40% and improving maintainability.
+
+Collaborated with UX designers to implement pixel-perfect designs and A/B tested UI changes.
+
+Improved web performance (Lighthouse score +20%) through code-splitting and lazy loading.
+
+Led frontend testing efforts using React Testing Library and Cypress.
+
+Junior Front-End Developer
+Webly A/S, Aarhus
+July 2019 – April 2021
+
+Assisted in developing e-commerce sites using Vue.js and Nuxt.js.
+
+Implemented responsive layouts and reusable UI components.
+
+Worked closely with backend developers to integrate APIs.
+
+Fixed cross-browser issues and ensured full WCAG 2.1 compliance.
+
+Education
+Bachelor of Science in Web Development
+KEA – Copenhagen School of Design and Technology
+2016 – 2019
+
+Certifications
+Meta Front-End Developer Professional Certificate (Coursera)
+
+JavaScript Algorithms and Data Structures (freeCodeCamp)
+

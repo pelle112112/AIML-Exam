@@ -1,0 +1,78 @@
+Name: Jane Smith
+Email: jane.smith@example.com
+Phone: +45 12 34 56 78
+Location: Aarhus, Denmark
+LinkedIn: linkedin.com/in/janesmith
+GitHub: github.com/janesmith
+
+Professional Summary
+Versatile Software Developer with 4+ years of experience in building, testing, and deploying scalable web applications. Strong foundation in TypeScript, JavaScript, and modern frameworks like React and Node.js. Proven track record in delivering production-ready code, optimizing performance, and contributing to team-wide architecture decisions. Comfortable working in agile environments with CI/CD pipelines and cloud infrastructure.
+
+Core Competencies
+Full-Stack Web Development
+
+API Design & Integration
+
+Performance Optimization
+
+Test-Driven Development
+
+CI/CD & DevOps Practices
+
+Cloud Deployment (AWS, Azure)
+
+Git-Based Workflows
+
+Agile & Scrum Methodologies
+
+Technical Skills
+Languages: TypeScript, JavaScript, Java, Python
+
+Frameworks: React, Next.js, Node.js, Express
+
+Databases: PostgreSQL, MongoDB, MySQL
+
+Tools: Git, Docker, Jenkins, Vite, Webpack
+
+Testing: Jest, Cypress, Playwright
+
+Cloud: AWS (EC2, S3, Lambda), Vercel, Azure
+
+Other: REST, GraphQL, WebSockets
+
+Professional Experience
+Software Developer
+Nordic Tech Solutions, Aarhus
+Feb 2021 – Present
+
+Developed and maintained a B2B dashboard using React, Redux, and TypeScript.
+
+Led migration from REST to GraphQL API architecture, improving frontend data efficiency.
+
+Introduced automated testing strategy using Jest and Playwright, increasing coverage to 85%.
+
+Optimized frontend load time by 40% using code splitting and lazy loading.
+
+Contributed to CI/CD setup using GitHub Actions and Docker for staging and production.
+
+Junior Software Developer
+InnovateIT, Copenhagen
+Jul 2019 – Jan 2021
+
+Collaborated on backend services using Node.js and Express.
+
+Built reusable UI components using React and Tailwind CSS.
+
+Wrote integration tests and handled bug fixes across multiple environments.
+
+Participated in daily stand-ups and bi-weekly sprint reviews.
+
+Education
+BSc in Software Engineering
+IT University of Copenhagen
+2016 – 2019
+
+Certifications
+AWS Certified Developer – Associate
+
+Microsoft Certified: Azure Fundamentals

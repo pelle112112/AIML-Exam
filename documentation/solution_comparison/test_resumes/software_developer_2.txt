@@ -1,0 +1,61 @@
+Name: Alex Jensen
+Email: alex.jensen@example.com
+Phone: +45 12 34 56 78
+Location: Copenhagen, Denmark
+LinkedIn: linkedin.com/in/alexjensen
+GitHub: github.com/alexjensen
+
+Professional Summary
+Results-driven Software Developer with 5+ years of experience delivering scalable web applications and backend systems. Proficient in modern JavaScript/TypeScript ecosystems, RESTful API design, and cloud deployment. Strong understanding of software architecture, test automation, and CI/CD workflows. Proven ability to work across the full development lifecycle in fast-paced, agile environments.
+
+Technical Skills
+Languages: JavaScript, TypeScript, Python, Java
+
+Frontend: React, Next.js, Redux, Tailwind CSS
+
+Backend: Node.js, Express, Spring Boot
+
+Databases: PostgreSQL, MongoDB, MySQL
+
+DevOps: Docker, GitHub Actions, AWS, Azure
+
+Testing: Jest, Cypress, Playwright
+
+Tools: Git, Jira, Postman, Figma
+
+Experience
+Software Developer
+TechWave ApS – Copenhagen, DK
+Feb 2021 – Present
+
+Developed and maintained customer-facing web apps using Next.js and TypeScript.
+
+Designed REST APIs and integrated third-party services using Node.js.
+
+Automated test suites (Jest, Playwright) and enforced code quality via CI pipelines.
+
+Led frontend performance optimization, reducing load time by 35%.
+
+Deployed apps to AWS using Docker and GitHub Actions.
+
+Junior Software Developer
+CodeLogic – Aarhus, DK
+Jul 2018 – Jan 2021
+
+Built internal tools using React and Express.
+
+Assisted in database schema design and backend logic for new features.
+
+Fixed bugs and improved performance in legacy systems.
+
+Participated in agile planning, code reviews, and peer programming.
+
+Education
+BSc in Computer Science
+Aarhus University
+2015 – 2018
+
+Certifications
+AWS Certified Developer – Associate
+
+Microsoft Certified: Azure Developer Associate

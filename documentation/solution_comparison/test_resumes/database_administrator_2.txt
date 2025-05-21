@@ -1,0 +1,76 @@
+Name: John Doe
+Email: john.doe@example.com
+Phone: +1 (123) 456-7890
+Location: Copenhagen, Denmark
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+Professional Summary
+Detail-oriented and analytical Database Developer with 5+ years of experience designing, optimizing, and maintaining relational and non-relational database systems. Proven ability to build robust data pipelines, write complex queries, and ensure data integrity, performance, and security across enterprise applications. Skilled in SQL, PL/SQL, PostgreSQL, MySQL, and cloud-based data solutions like AWS RDS and Azure SQL.
+
+Core Competencies
+Database Design & Development
+
+Performance Tuning & Optimization
+
+ETL & Data Warehousing
+
+Stored Procedures, Triggers, Indexing
+
+Data Modeling (ERD, Normalization)
+
+Backup & Disaster Recovery
+
+Cloud Databases (AWS, Azure)
+
+Scripting (Python, Shell)
+
+Technical Skills
+Databases: PostgreSQL, MySQL, SQL Server, Oracle
+
+Tools: pgAdmin, SSMS, Flyway, Liquibase, DataGrip
+
+Languages: SQL, PL/SQL, Python, Bash
+
+Cloud: AWS RDS, Azure SQL, Google Cloud SQL
+
+Version Control: Git, GitHub
+
+CI/CD: Jenkins, GitHub Actions
+
+Professional Experience
+Database Developer
+ABC Technologies, Copenhagen
+Jan 2021 – Present
+
+Designed and optimized PostgreSQL databases for high-traffic SaaS applications.
+
+Automated daily ETL processes using Python scripts and cron jobs.
+
+Refactored 100+ stored procedures, improving query speed by up to 60%.
+
+Collaborated with backend developers to ensure efficient schema changes and versioning using Flyway.
+
+Implemented automated backup strategies and recovery testing.
+
+Junior Database Developer
+XYZ Solutions, Aarhus
+Jun 2018 – Dec 2020
+
+Assisted in data migration projects from legacy systems to MySQL.
+
+Created reporting queries and optimized existing ones for performance.
+
+Supported the analytics team by preparing datasets for BI tools.
+
+Maintained data integrity checks and documented database standards.
+
+Education
+BSc in Computer Science
+Aarhus University – Aarhus, Denmark
+2015 – 2018
+
+Certifications
+Microsoft Certified: Azure Database Administrator Associate
+
+Oracle PL/SQL Developer Certified Associate

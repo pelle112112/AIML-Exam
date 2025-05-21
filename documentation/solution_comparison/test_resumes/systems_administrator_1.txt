@@ -1,0 +1,77 @@
+Name: Michael Sørensen
+Email: michael.sorensen@example.com
+Phone: +45 12 34 56 78
+Location: Aalborg, Denmark
+LinkedIn: linkedin.com/in/michaelsorensen
+
+Professional Summary
+Experienced Systems Administrator with 6+ years in managing, securing, and optimizing IT infrastructure for mid to large-scale organizations. Strong expertise in Linux/Windows server administration, virtualization, scripting, automation, and cloud platforms. Known for reducing downtime, improving system performance, and ensuring secure, stable environments. Adept at troubleshooting, monitoring, and implementing system policies aligned with business needs.
+
+Core Competencies
+Server Management (Linux/Windows)
+
+Network Configuration & Troubleshooting
+
+Virtualization (VMware, Hyper-V, Proxmox)
+
+Infrastructure Automation (Ansible, Bash, PowerShell)
+
+Backup & Disaster Recovery
+
+Active Directory / Group Policy
+
+Cloud Services (Azure, AWS)
+
+Monitoring & Logging (Zabbix, Prometheus, ELK)
+
+Technical Skills
+OS: Ubuntu, Debian, RHEL, Windows Server 2016/2019
+
+Scripting: Bash, PowerShell, Python
+
+Tools: Ansible, Terraform, Git, Docker
+
+Cloud: AWS EC2/S3/IAM, Azure VMs/AD
+
+Security: Firewall config, Patch Management, SSL/TLS, MFA
+
+Monitoring: Nagios, Grafana, Graylog
+
+Professional Experience
+Systems Administrator
+NetSecure IT, Aalborg
+Feb 2020 – Present
+
+Maintain and monitor 150+ servers across hybrid infrastructure.
+
+Migrated core services to Azure, improving scalability and availability.
+
+Implemented Ansible automation for patching, saving 20+ hours/month.
+
+Hardened network perimeter using firewall policies and access control.
+
+Led upgrade of on-prem Active Directory and implemented MFA policies.
+
+IT Support Specialist → Junior SysAdmin
+DenTek Solutions, Aarhus
+Jul 2017 – Jan 2020
+
+Provided L2 support for users and managed user access controls.
+
+Deployed and maintained Windows Server and VMware infrastructure.
+
+Set up system monitoring alerts and handled incident response.
+
+Wrote scripts for log cleanup, backups, and disk monitoring.
+
+Education
+Diploma in IT Infrastructure & Network Engineering
+Aalborg Technical College
+2015 – 2017
+
+Certifications
+Microsoft Certified: Azure Administrator Associate
+
+CompTIA Linux+
+
+VMware Certified Professional (VCP)

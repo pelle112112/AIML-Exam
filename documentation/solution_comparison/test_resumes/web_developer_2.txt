@@ -1,0 +1,69 @@
+Name: Sofia Jensen
+Email: sofia.jensen@example.com
+Phone: +45 12 34 56 78
+Location: Aarhus, Denmark
+Portfolio: www.sofiaj.dev
+GitHub: github.com/sofiajensen
+LinkedIn: linkedin.com/in/sofiajensen
+
+Professional Summary
+Detail-oriented Web Developer with 5+ years of experience building responsive, high-performance web applications. Proficient in JavaScript, React, and modern frontend tooling. Strong understanding of UI/UX best practices, component-based architecture, and API integration. Known for clean code, team collaboration, and delivering features on time in agile environments.
+
+Key Skills
+HTML5, CSS3, JavaScript (ES6+)
+
+React, Next.js, TypeScript
+
+Node.js, Express
+
+Tailwind CSS, Sass
+
+REST APIs, GraphQL
+
+Git, GitHub, CI/CD
+
+Webpack, Vite
+
+Responsive Design & Accessibility
+
+Testing: Jest, React Testing Library
+
+Agile / Scrum / Kanban
+
+Experience
+Web Developer
+Nordic Web Solutions, Aarhus
+Mar 2021 – Present
+
+Developed and maintained dynamic web applications using React and Next.js.
+
+Built reusable UI components and managed state using Redux and React Context.
+
+Integrated external APIs and improved performance by lazy-loading and code-splitting.
+
+Collaborated with backend developers and designers to deliver client-ready solutions.
+
+Led frontend code reviews and mentored junior developers.
+
+Frontend Developer
+InnoTech ApS, Copenhagen
+Jan 2019 – Feb 2021
+
+Created responsive landing pages and dashboards for SaaS platforms.
+
+Migrated projects from jQuery to modern JavaScript and React.
+
+Improved accessibility (WCAG 2.1) and page load speed across several projects.
+
+Participated in sprint planning, standups, and client demos.
+
+Education
+Bachelor’s in Web Development
+KEA – Copenhagen School of Design and Technology
+2016 – 2019
+
+Certifications
+Front-End Web Developer Nanodegree (Udacity)
+
+JavaScript Algorithms and Data Structures (freeCodeCamp)
+

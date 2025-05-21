@@ -1,0 +1,61 @@
+Name: Martin Kristensen
+Email: martin.kristensen@example.com
+Phone: +45 12 34 56 78
+Location: Odense, Denmark
+GitHub: github.com/martinkristensen
+LinkedIn: linkedin.com/in/martinkristensen
+
+Professional Summary
+Skilled Java Developer with 5+ years of experience in building robust backend systems, RESTful APIs, and enterprise applications. Proficient in Java SE and EE, Spring Framework, Hibernate, and modern CI/CD practices. Experienced in deploying scalable microservices on cloud platforms like AWS. Strong focus on code quality, system performance, and test coverage.
+
+Technical Skills
+Languages: Java (8+), SQL, JavaScript (basic)
+
+Frameworks: Spring Boot, Spring MVC, Hibernate, JPA
+
+Databases: PostgreSQL, MySQL, Oracle
+
+Tools: Maven, Gradle, Git, Jenkins
+
+Testing: JUnit, Mockito
+
+Cloud: AWS (EC2, RDS, S3), Docker
+
+Other: REST APIs, JSON, XML, Linux, IntelliJ IDEA
+
+Professional Experience
+Java Developer
+CoreLogic Systems, Odense
+Mar 2021 – Present
+
+Developed and maintained microservices using Spring Boot, handling over 10,000 daily transactions.
+
+Integrated third-party APIs and built secure authentication flows with Spring Security.
+
+Refactored legacy monolith modules into microservices, improving maintainability and deployment time.
+
+Created and optimized SQL queries for large datasets in PostgreSQL.
+
+Worked with DevOps team to containerize services and deploy via Jenkins pipelines to AWS.
+
+Junior Java Developer
+DigitalNova A/S, Aarhus
+Jun 2018 – Feb 2021
+
+Built backend logic for web applications using Java EE and Hibernate ORM.
+
+Designed RESTful APIs and integrated them with Angular frontend teams.
+
+Participated in daily Scrum, sprint planning, and code reviews.
+
+Wrote JUnit tests and used Mockito for mocking dependencies, increasing test coverage to 90%.
+
+Education
+Bachelor of Science in Software Engineering
+University of Southern Denmark (SDU)
+2015 – 2018
+
+Certifications
+Oracle Certified Associate (OCA) – Java SE 8
+
+Spring Framework Professional – Pivotal (in progress)
