@@ -8,6 +8,12 @@
 - [Documentation of ML models (notebooks)](/documentation/notebooks/)
 - [Setup and running the project](README.md)
 
+The synopsis contains a description of the project, its goals, the experiment, our results and thoughts. 
+
+The documentation of ML models contains the process of training the ML models. Order is: dataCleaning, dataExploratin, BertTraining and ClassificationModels.
+
+Setup and running the project is a guide on how to setup and execute the project (excluding training of the actual models as that would take a long period of time).
+
 #### Setting up the local AI.
 
 The application uses Open WebUI's API to communicate with a locally installed AI. Below is a step to step guideline on installation and configuration of the local AI with and without NVIDIA GPU SUPPORT.
@@ -118,12 +124,3 @@ Firstly navigate to the Webapp folder with the following command:
 Then type the following command to run the streamlit application:
 
 `python -m streamlit run start.py`
-
-### Documentation of the Machine Learning
-
-The thoughts and reflections will be in the following files, where we trained different models for the first screening process of resumes (Multi labeling):
-
-- dataCleaning.ipynb
-- BertTraining.ipynb
-- ClassificationModels.ipynb
-- dataExploration.ipynb
