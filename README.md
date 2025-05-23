@@ -4,7 +4,7 @@
 
 ## Deliverables
 
-- [Synopsis containing comparative analysis](/documentation/AI_ML exam Synopsis.pdf)
+- [Synopsis containing comparative analysis](/documentation/AI_ML_exam_Synopsis.pdf)
 - [Documentation of ML models (notebooks)](/documentation/notebooks/)
 - [Setup and running the project](README.md)
 
