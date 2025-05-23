@@ -3,6 +3,7 @@ from sentence_transformers import SentenceTransformer, util
 import torch
 import os
 import json
+import time
 
 
 st.title("Resume vs Job Role Matching (Cosine Similarity)")
@@ -75,6 +76,7 @@ if st.button("Match Resume to Job Roles"):
     if not resume_text.strip():
         st.warning("Please paste a resume.")
     else:
+        start_time = time.time()
         with st.spinner("Computing similarities..."):
             # We compute the embedding for the resume texts aswell
             resume_emb = model.encode(resume_text, convert_to_tensor=True)
@@ -91,7 +93,10 @@ if st.button("Match Resume to Job Roles"):
             st.subheader("Match Results:")
             for role, score in sorted_scores:
                 st.write(f"**{role}**: {score:.3f}")
-
+                
+    end_time = time.time()  # End timer
+    elapsed_time = end_time - start_time
+    st.info(f"Prediction completed in {elapsed_time:.2f} seconds.")
 # --- Optional Debug Info ---
 with st.expander("Loaded Job Descriptions"):
     for role, desc in job_descriptions.items():

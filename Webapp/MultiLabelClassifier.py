@@ -3,6 +3,7 @@ from transformers import BertTokenizer, BertForSequenceClassification
 import torch
 import os
 import pickle
+import time
 
 label_names = [
     "Software Developer",
@@ -57,6 +58,8 @@ if st.button("Classify"):
     else:
         st.subheader("Predicted Label Scores:")
 
+        start_time = time.time()
+
         if model_option == "BERT Classifier":
             tokenizer, model = load_bert_model_and_tokenizer()
             with torch.no_grad():
@@ -86,3 +89,7 @@ if st.button("Classify"):
                 preds = clf.predict(vec)[0]
                 for name, val in zip(label_names, preds):
                     st.write(f"{name}: {float(val):.4f}")
+
+        end_time = time.time()  # End timer
+        elapsed_time = end_time - start_time
+        st.info(f"Prediction completed in {elapsed_time:.2f} seconds.")
