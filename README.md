@@ -5,7 +5,7 @@
 ## Deliverables
 
 - [Synopsis containing comparative analysis]()
-- [Documentation of ML models (notebooks)]()
+- [Documentation of ML models (notebooks)](/documentation/notebooks/)
 - [Setup and running the project](README.md)
 
 #### Setting up the local AI.
